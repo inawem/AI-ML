@@ -781,5 +781,3 @@ stack = {
 ```
 
 ---
-
-*Continue to Part 2 for Questions 11-20...*
