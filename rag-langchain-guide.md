@@ -995,8 +995,6 @@ print(f"Sources: {[doc.metadata['source'] for doc in response['source_documents'
 
 ## Next Steps
 
-Given your 20+ years of experience, I'd recommend:
-
 1. **Start with basics**: Build a simple RAG system using the quick start template above
 2. **Experiment with retrievers**: Try different retrieval strategies (multi-query, compression, ensemble)
 3. **Implement evaluation**: Set up metrics early to measure improvement
@@ -1004,4 +1002,3 @@ Given your 20+ years of experience, I'd recommend:
 5. **Explore agents**: Combine RAG with tool-using agents for complex workflows
 6. **Optimize for production**: Focus on latency, cost, and observability
 
-The field is evolving rapidly, so stay engaged with the community and keep experimenting!
