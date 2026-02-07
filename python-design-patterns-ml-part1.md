@@ -1661,8 +1661,3 @@ manager = ModelManager()  # Automatically singleton!
 - ⚠️ Global state can lead to tight coupling
 - ⚠️ Consider alternatives like dependency injection containers
 
----
-
-*Continue with remaining 6 patterns...*
-
-Would you like me to continue with patterns 5-10 in this file, or would you prefer I create a second part?
