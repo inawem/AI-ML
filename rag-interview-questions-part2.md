@@ -1407,6 +1407,4 @@ await hybrid_rag.query("How has Tesla's stock performed historically and what's 
 
 ---
 
-*Continue with Questions 15-20...*
 
-Would you like me to complete the remaining questions (15-20)?
